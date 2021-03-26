@@ -13,4 +13,5 @@ Deploying a moodle instance on Azure using GitHub Actions
 * Even if not completely working, so we can understand logic followed
 * No other passwords required to aws, etc - just the configuration details and credentials listed in point 1
 * Provide all/any code used and documentation
+
 **Bonus:** Automate the steps in building the system with whatever methodology and tools you are most comfortable using. FYI Moodle ICT uses Saltstack, Terraform and Python in AWS
