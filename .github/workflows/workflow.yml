@@ -22,7 +22,7 @@ jobs:
     - name: provision virtual machine in azure
       env:
         RESOURCE_GROUP: moodle-cnicolaide
-        RESOURCE_GROUP_REGION: ukwest
+        RESOURCE_GROUP_REGION: australiacentral
         SERVER_NAME: moodle_test
         ADMIN_LOGIN: jorge
       run: >
