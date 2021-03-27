@@ -1,7 +1,7 @@
 # moodle-challenge
 Deploying a moodle instance on Azure using GitHub Actions
 
-## Directives
+## Directives 
 
 1. Create a running Moodle instance on the cloud platform of your choice
 * Web access must use https protocol
