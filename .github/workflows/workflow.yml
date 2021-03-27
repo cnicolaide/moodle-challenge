@@ -18,7 +18,7 @@ jobs:
 
     - name: look for ps1 file
       run: |
-        ls '${{ env.OUTPUT_PATH }}'
+        ls '${{ env.OUTPUT_PATH }}*.ps1'
     - name: provision virtual machine in azure
       env:
         RESOURCE_GROUP: moodle-cnicolaide
